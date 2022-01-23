@@ -1,0 +1,14 @@
+C:\Users\vital\source\repos\N5\N5\bin\Debug\netcoreapp3.1\N5.exe
+C:\Users\vital\source\repos\N5\N5\bin\Debug\netcoreapp3.1\N5.deps.json
+C:\Users\vital\source\repos\N5\N5\bin\Debug\netcoreapp3.1\N5.runtimeconfig.json
+C:\Users\vital\source\repos\N5\N5\bin\Debug\netcoreapp3.1\N5.runtimeconfig.dev.json
+C:\Users\vital\source\repos\N5\N5\bin\Debug\netcoreapp3.1\N5.dll
+C:\Users\vital\source\repos\N5\N5\bin\Debug\netcoreapp3.1\N5.pdb
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.AssemblyInfoInputs.cache
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.AssemblyInfo.cs
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.dll
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.pdb
+C:\Users\vital\source\repos\N5\N5\obj\Debug\netcoreapp3.1\N5.genruntimeconfig.cache
